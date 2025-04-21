@@ -1,0 +1,34 @@
+<ul>
+  <li><strong>Insurance Affordability Analysis</strong><br>
+      <em>Interactive dashboard analyzing insurance applicants.</em><br>
+      <a href="assets/Tableau_Insurance_Affordability.pdf" target="_blank">View PDF</a>
+  </li>
+  <li><strong>University Enrollment Insights</strong><br>
+      <em>Enrollment trends across higher education institutions.</em><br>
+      <a href="assets/Tableau_University_Enrollment.pdf" target="_blank">View PDF</a>
+  </li>
+  <li><strong>Excel VBA Automation</strong><br>
+      <em>Macro-powered tool to automate HR reporting.</em><br>
+      <a href="assets/Excel_VBA_Automation.xlsm" target="_blank">Download File</a>
+  </li>
+  <li><strong>IBM Attrition Analysis (R)</strong><br>
+      <em>Exploratory analysis using R and IBM HR dataset.</em><br>
+      <a href="assets/R_IBM_Attrition_Analysis.pdf" target="_blank">View PDF</a>
+  </li>
+  <li><strong>Profit Prediction (JMP)</strong><br>
+      <em>Regression analysis with stepwise and clustering.</em><br>
+      <a href="assets/JMP_Profit_Prediction.pdf" target="_blank">View PDF</a>
+  </li>
+  <li><strong>Cluster-Based Profit Models (JMP)</strong><br>
+      <em>Evaluating regression models across 3–15 clusters.</em><br>
+      <a href="assets/JMP_Cluster_Profit_Model.pdf" target="_blank">View PDF</a>
+  </li>
+  <li><strong>ANOVA Case Study</strong><br>
+      <em>Comparing group means using ANOVA.</em><br>
+      <a href="assets/ANOVA_Case_Study.docx" target="_blank">Download DOCX</a>
+  </li>
+  <li><strong>Game Theory Pricing Strategy</strong><br>
+      <em>Strategic price modeling using Nash equilibrium.</em><br>
+      <a href="assets/Game_Theory_Pricing.pdf" target="_blank">View PDF</a>
+  </li>
+</ul>
